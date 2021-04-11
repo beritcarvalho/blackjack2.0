@@ -172,7 +172,7 @@ namespace blackjack2._0
             this.lblResultadoP1.BackColor = System.Drawing.Color.Transparent;
             this.lblResultadoP1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblResultadoP1.ForeColor = System.Drawing.SystemColors.Control;
-            this.lblResultadoP1.Location = new System.Drawing.Point(383, 433);
+            this.lblResultadoP1.Location = new System.Drawing.Point(223, 433);
             this.lblResultadoP1.Name = "lblResultadoP1";
             this.lblResultadoP1.Size = new System.Drawing.Size(114, 32);
             this.lblResultadoP1.TabIndex = 8;
@@ -184,7 +184,7 @@ namespace blackjack2._0
             this.lblResultadoP2.BackColor = System.Drawing.Color.Transparent;
             this.lblResultadoP2.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblResultadoP2.ForeColor = System.Drawing.SystemColors.Control;
-            this.lblResultadoP2.Location = new System.Drawing.Point(383, 301);
+            this.lblResultadoP2.Location = new System.Drawing.Point(528, 319);
             this.lblResultadoP2.Name = "lblResultadoP2";
             this.lblResultadoP2.Size = new System.Drawing.Size(114, 32);
             this.lblResultadoP2.TabIndex = 9;

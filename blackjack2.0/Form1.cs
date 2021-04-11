@@ -301,6 +301,21 @@ namespace blackjack2._0
             pontosP1 += cartaAtual;
             lblPontosP1.Text = pontosP1.ToString();
 
+            Resultado(pontosP1, lblResultadoP1);
+
+        }
+
+        //método de resultado de jogo
+        private void Resultado(int pontos, Label lblpontos)
+        {
+            if (pontos > 21)
+            {
+                lblpontos.Text = "VOCÊ PERDEU!!!";
+            }
+            else if (pontosP1 == 21)
+            {
+                lblpontos.Text = "VOCÊ GANHOU!!!";
+            }
         }
 
         private void btnReiniciar_Click(object sender, EventArgs e)
@@ -308,6 +323,7 @@ namespace blackjack2._0
             //zerando os pontos e motrando na tela
             pontosP1 = 0;
             lblPontosP1.Text = pontosP1.ToString();
+
         }
     }
 
