@@ -15,6 +15,8 @@ namespace blackjack2._0
         public Form1()
         {
             InitializeComponent();
+            btnReiniciar.Enabled = false;
+            lblReiniciar.ForeColor = Color.Gray;
         }
 
 
@@ -293,6 +295,10 @@ namespace blackjack2._0
         int pontosP1 = 0;
         private void btnPedirMaisP1_Click(object sender, EventArgs e)
         {
+            //habilitando o botao Reiniciar!
+            btnReiniciar.Enabled = true;
+            lblReiniciar.ForeColor = Color.Black;
+
             //mostrando carta  e atribuindo o valor da variavel cartaAtual
             int cartaAtual = PedirCartas(pibCartasP1);
             lblValorCartaP1.Text = cartaAtual.ToString();
@@ -310,11 +316,11 @@ namespace blackjack2._0
         {
             if (pontos > 21)
             {
-                lblpontos.Text = "VOCÊ PERDEU!!!";
+                lblpontos.Text = "ESTOUROU";
             }
             else if (pontosP1 == 21)
             {
-                lblpontos.Text = "VOCÊ GANHOU!!!";
+                lblpontos.Text = "GANHOU!!!";
             }
         }
 

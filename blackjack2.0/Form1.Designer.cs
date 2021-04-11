@@ -42,7 +42,7 @@ namespace blackjack2._0
             this.lblResultadoP2 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
+            this.lblReiniciar = new System.Windows.Forms.Label();
             this.lblPontosP2 = new System.Windows.Forms.Label();
             this.pibCartasP1 = new System.Windows.Forms.PictureBox();
             this.pibCartasP2 = new System.Windows.Forms.PictureBox();
@@ -212,17 +212,17 @@ namespace blackjack2._0
             this.label7.TabIndex = 11;
             this.label7.Text = "PEDIR +";
             // 
-            // label8
+            // lblReiniciar
             // 
-            this.label8.AutoSize = true;
-            this.label8.BackColor = System.Drawing.Color.Transparent;
-            this.label8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label8.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label8.Location = new System.Drawing.Point(12, 75);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(88, 21);
-            this.label8.TabIndex = 12;
-            this.label8.Text = "REINICIAR";
+            this.lblReiniciar.AutoSize = true;
+            this.lblReiniciar.BackColor = System.Drawing.Color.Transparent;
+            this.lblReiniciar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblReiniciar.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.lblReiniciar.Location = new System.Drawing.Point(12, 75);
+            this.lblReiniciar.Name = "lblReiniciar";
+            this.lblReiniciar.Size = new System.Drawing.Size(88, 21);
+            this.lblReiniciar.TabIndex = 12;
+            this.lblReiniciar.Text = "REINICIAR";
             // 
             // lblPontosP2
             // 
@@ -353,7 +353,7 @@ namespace blackjack2._0
             this.Controls.Add(this.pibCartasP2);
             this.Controls.Add(this.pibCartasP1);
             this.Controls.Add(this.lblPontosP2);
-            this.Controls.Add(this.label8);
+            this.Controls.Add(this.lblReiniciar);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.lblResultadoP2);
@@ -395,7 +395,7 @@ namespace blackjack2._0
         private System.Windows.Forms.Label lblResultadoP2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label lblReiniciar;
         private System.Windows.Forms.Label lblPontosP2;
         private System.Windows.Forms.PictureBox pibCartasP1;
         private System.Windows.Forms.PictureBox pibCartasP2;
