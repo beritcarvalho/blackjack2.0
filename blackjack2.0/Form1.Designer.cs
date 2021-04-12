@@ -116,6 +116,7 @@ namespace blackjack2._0
             this.btnManterP2.Size = new System.Drawing.Size(60, 60);
             this.btnManterP2.TabIndex = 3;
             this.btnManterP2.UseVisualStyleBackColor = false;
+            this.btnManterP2.Click += new System.EventHandler(this.btnManterP2_Click);
             // 
             // btnPedirMaisP2
             // 
@@ -130,6 +131,7 @@ namespace blackjack2._0
             this.btnPedirMaisP2.Size = new System.Drawing.Size(60, 60);
             this.btnPedirMaisP2.TabIndex = 4;
             this.btnPedirMaisP2.UseVisualStyleBackColor = false;
+            this.btnPedirMaisP2.Click += new System.EventHandler(this.btnPedirMaisP2_Click);
             // 
             // lblPontosP1
             // 

@@ -301,10 +301,11 @@ namespace blackjack2._0
 
         }
 
+        
         //variável global de pontuação player 1
         int pontosP1 = 0;
         private void btnPedirMaisP1_Click(object sender, EventArgs e)
-        {
+        {           
             //hablitando  o botao manter
             btnManterP1.Enabled = true;
             btnManterP1.BackgroundImage = Properties.Resources.manter;
@@ -361,25 +362,50 @@ namespace blackjack2._0
 
         private void btnReiniciar_Click(object sender, EventArgs e)
         {
+            //zerando label  valor de  carta atual
+            lblValorCartaP1.Text = "0";
+            lblValorCartaP2.Text = "0";
+
+            //virando as cartas
+            pibCartasP1.Image = Properties.Resources.cartavirada;
+            pibCartasP2.Image = Properties.Resources.cartavirada;
 
             //desabilitando a visualizaçao label de pontos
             lblResultadoP1.Visible = false;
+            lblResultadoP2.Visible = false;
+
+
 
             //desabilitando o botao reiniciar
             btnReiniciar.Enabled = false;
             btnReiniciar.BackgroundImage = Properties.Resources.reiniciar_disable;
 
+
+
             //desabilitando o botao manter
             btnManterP1.Enabled = false;
             btnManterP1.BackgroundImage = Properties.Resources.manter_disable;
+
+            btnManterP2.Enabled = false;
+            btnManterP2.BackgroundImage = Properties.Resources.manter_disable;
+
+
 
             //zerando os pontos e motrando na tela
             pontosP1 = 0;
             lblPontosP1.Text = pontosP1.ToString();
 
+            pontosP2 = 0;
+            lblPontosP2.Text = pontosP2.ToString();
+
+
+
             //habilitando btnPedirmais
             btnPedirMaisP1.Enabled = true;
             btnPedirMaisP1.BackgroundImage = Properties.Resources.pedir;
+
+            btnPedirMaisP2.Enabled = true;
+            btnPedirMaisP2.BackgroundImage = Properties.Resources.pedir;
 
 
         }
@@ -393,6 +419,39 @@ namespace blackjack2._0
             btnManterP1.Enabled = false;
             btnManterP1.BackgroundImage = Properties.Resources.manter_disable;
 
+        }
+
+        int pontosP2 = 0;
+        private void btnPedirMaisP2_Click(object sender, EventArgs e)
+        {
+            //hablitando  o botao manter
+            btnManterP2.Enabled = true;
+            btnManterP2.BackgroundImage = Properties.Resources.manter;
+
+            //habilitando o botao Reiniciar!
+            btnReiniciar.Enabled = true;
+            btnReiniciar.BackgroundImage = Properties.Resources.reiniciar;
+
+            //mostrando carta  e atribuindo o valor da variavel cartaAtual
+            int cartaAtual = PedirCartas(pibCartasP2);
+            lblValorCartaP2.Text = cartaAtual.ToString();
+
+            //realizando o processo de pontos e mostrando na tela
+            pontosP2 += cartaAtual;
+            lblPontosP2.Text = pontosP2.ToString();
+
+            //executando a função Resultado
+            Resultado(pontosP2, btnPedirMaisP2, btnManterP2, lblResultadoP2);
+        }
+
+        private void btnManterP2_Click(object sender, EventArgs e)
+        {
+            btnPedirMaisP2.Enabled = false;
+            btnPedirMaisP2.BackgroundImage = Properties.Resources.pedir_disable;
+
+            //desabilitando o botao manter
+            btnManterP2.Enabled = false;
+            btnManterP2.BackgroundImage = Properties.Resources.manter_disable;
         }
     }
 
