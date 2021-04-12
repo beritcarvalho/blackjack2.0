@@ -29,7 +29,6 @@ namespace blackjack2._0
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btnReiniciar = new System.Windows.Forms.Button();
             this.btnManterP1 = new System.Windows.Forms.Button();
             this.btnPedirMaisP1 = new System.Windows.Forms.Button();
@@ -65,7 +64,7 @@ namespace blackjack2._0
             // btnReiniciar
             // 
             this.btnReiniciar.BackColor = System.Drawing.Color.Transparent;
-            this.btnReiniciar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnReiniciar.BackgroundImage")));
+            this.btnReiniciar.BackgroundImage = global::blackjack2._0.Properties.Resources.reiniciar;
             this.btnReiniciar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnReiniciar.FlatAppearance.BorderSize = 0;
             this.btnReiniciar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -79,7 +78,7 @@ namespace blackjack2._0
             // btnManterP1
             // 
             this.btnManterP1.BackColor = System.Drawing.Color.Transparent;
-            this.btnManterP1.BackgroundImage = global::blackjack2._0.Properties.Resources.icons8_toda_a_mão_641;
+            this.btnManterP1.BackgroundImage = global::blackjack2._0.Properties.Resources.manter;
             this.btnManterP1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnManterP1.FlatAppearance.BorderSize = 0;
             this.btnManterP1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -88,11 +87,12 @@ namespace blackjack2._0
             this.btnManterP1.Size = new System.Drawing.Size(60, 60);
             this.btnManterP1.TabIndex = 1;
             this.btnManterP1.UseVisualStyleBackColor = false;
+            this.btnManterP1.Click += new System.EventHandler(this.btnManterP1_Click);
             // 
             // btnPedirMaisP1
             // 
             this.btnPedirMaisP1.BackColor = System.Drawing.Color.Transparent;
-            this.btnPedirMaisP1.BackgroundImage = global::blackjack2._0.Properties.Resources.icons8_mais_512__2_;
+            this.btnPedirMaisP1.BackgroundImage = global::blackjack2._0.Properties.Resources.pedir;
             this.btnPedirMaisP1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnPedirMaisP1.FlatAppearance.BorderSize = 0;
             this.btnPedirMaisP1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -106,7 +106,7 @@ namespace blackjack2._0
             // btnManterP2
             // 
             this.btnManterP2.BackColor = System.Drawing.Color.Transparent;
-            this.btnManterP2.BackgroundImage = global::blackjack2._0.Properties.Resources.icons8_toda_a_mão_641;
+            this.btnManterP2.BackgroundImage = global::blackjack2._0.Properties.Resources.manter;
             this.btnManterP2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnManterP2.FlatAppearance.BorderSize = 0;
             this.btnManterP2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -120,7 +120,7 @@ namespace blackjack2._0
             // btnPedirMaisP2
             // 
             this.btnPedirMaisP2.BackColor = System.Drawing.Color.Transparent;
-            this.btnPedirMaisP2.BackgroundImage = global::blackjack2._0.Properties.Resources.icons8_mais_512__2_;
+            this.btnPedirMaisP2.BackgroundImage = global::blackjack2._0.Properties.Resources.pedir;
             this.btnPedirMaisP2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnPedirMaisP2.FlatAppearance.BorderSize = 0;
             this.btnPedirMaisP2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -263,7 +263,7 @@ namespace blackjack2._0
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.BackgroundImage = global::blackjack2._0.Properties.Resources.icons8_seta_para_expandir_96;
+            this.pictureBox3.BackgroundImage = global::blackjack2._0.Properties.Resources.setapontosesquerda;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox3.Location = new System.Drawing.Point(329, 468);
             this.pictureBox3.Name = "pictureBox3";
@@ -274,7 +274,7 @@ namespace blackjack2._0
             // pictureBox4
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.BackgroundImage = global::blackjack2._0.Properties.Resources.icons8_seta_para_expandir_96__1_;
+            this.pictureBox4.BackgroundImage = global::blackjack2._0.Properties.Resources.setapontosdireita;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox4.Location = new System.Drawing.Point(489, 250);
             this.pictureBox4.Name = "pictureBox4";
@@ -308,7 +308,7 @@ namespace blackjack2._0
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.SystemColors.Control;
-            this.pictureBox1.Image = global::blackjack2._0.Properties.Resources.icons8_seta_longa_abaixo_52__1_;
+            this.pictureBox1.Image = global::blackjack2._0.Properties.Resources.setacartadireita;
             this.pictureBox1.Location = new System.Drawing.Point(489, 581);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(20, 20);
@@ -318,7 +318,7 @@ namespace blackjack2._0
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::blackjack2._0.Properties.Resources.icons8_seta_longa_abaixo_52;
+            this.pictureBox2.Image = global::blackjack2._0.Properties.Resources.setacartaesquerda;
             this.pictureBox2.Location = new System.Drawing.Point(357, 276);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(20, 20);

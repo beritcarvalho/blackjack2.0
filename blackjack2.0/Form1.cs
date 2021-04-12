@@ -15,8 +15,18 @@ namespace blackjack2._0
         public Form1()
         {
             InitializeComponent();
+
+            //desabilitando a visualizaçao label de pontos
+            lblResultadoP1.Visible = false;
+
+            //desabilitando o botao reiniciar
             btnReiniciar.Enabled = false;
-            lblReiniciar.ForeColor = Color.Gray;
+            btnReiniciar.BackgroundImage = Properties.Resources.reiniciar_disable;
+            
+            //desabilitando o botao manter
+            btnManterP1.Enabled = false;
+            btnManterP1.BackgroundImage = Properties.Resources.manter_disable;
+
         }
 
 
@@ -295,9 +305,13 @@ namespace blackjack2._0
         int pontosP1 = 0;
         private void btnPedirMaisP1_Click(object sender, EventArgs e)
         {
+            //hablitando  o botao manter
+            btnManterP1.Enabled = true;
+            btnManterP1.BackgroundImage = Properties.Resources.manter;
+
             //habilitando o botao Reiniciar!
             btnReiniciar.Enabled = true;
-            lblReiniciar.ForeColor = Color.Black;
+            btnReiniciar.BackgroundImage = Properties.Resources.reiniciar;
 
             //mostrando carta  e atribuindo o valor da variavel cartaAtual
             int cartaAtual = PedirCartas(pibCartasP1);
@@ -307,28 +321,77 @@ namespace blackjack2._0
             pontosP1 += cartaAtual;
             lblPontosP1.Text = pontosP1.ToString();
 
-            Resultado(pontosP1, lblResultadoP1);
+            //executando a função Resultado
+            Resultado(pontosP1, btnPedirMaisP1, btnManterP1, lblResultadoP1);
 
         }
 
         //método de resultado de jogo
-        private void Resultado(int pontos, Label lblpontos)
+        private void Resultado(int pontos, Button btnPedirMais, Button btnManter, Label lblResultado)
         {
             if (pontos > 21)
             {
-                lblpontos.Text = "ESTOUROU";
+                lblResultado.Text = "ESTOUROU";
+
+                btnPedirMais.Enabled = false;
+
+                //desabilitando o botao manter
+                btnManter.Enabled = false;
+                btnManter.BackgroundImage = Properties.Resources.manter_disable;
+
+                //habilitando a visualizaçao label de pontos
+                lblResultado.Visible = true;
+
             }
             else if (pontosP1 == 21)
             {
-                lblpontos.Text = "GANHOU!!!";
+                lblResultado.Text = "GANHOU!!!";
+                btnPedirMais.Enabled = false;
+
+                //desabilitando o botao manter
+                btnManter.Enabled = false;
+                btnManter.BackgroundImage = Properties.Resources.manter_disable;
+
+                //habilitando a visualizaçao label de pontos
+                lblResultado.Visible = true;
+
             }
+           
         }
 
         private void btnReiniciar_Click(object sender, EventArgs e)
         {
+
+            //desabilitando a visualizaçao label de pontos
+            lblResultadoP1.Visible = false;
+
+            //desabilitando o botao reiniciar
+            btnReiniciar.Enabled = false;
+            btnReiniciar.BackgroundImage = Properties.Resources.reiniciar_disable;
+
+            //desabilitando o botao manter
+            btnManterP1.Enabled = false;
+            btnManterP1.BackgroundImage = Properties.Resources.manter_disable;
+
             //zerando os pontos e motrando na tela
             pontosP1 = 0;
             lblPontosP1.Text = pontosP1.ToString();
+
+            //habilitando btnPedirmais
+            btnPedirMaisP1.Enabled = true;
+            btnPedirMaisP1.BackgroundImage = Properties.Resources.pedir;
+
+
+        }
+
+        private void btnManterP1_Click(object sender, EventArgs e)
+        {
+            btnPedirMaisP1.Enabled = false;
+            btnPedirMaisP1.BackgroundImage = Properties.Resources.pedir_disable;
+
+            //desabilitando o botao manter
+            btnManterP1.Enabled = false;
+            btnManterP1.BackgroundImage = Properties.Resources.manter_disable;
 
         }
     }

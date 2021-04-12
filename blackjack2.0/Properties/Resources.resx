@@ -118,179 +118,80 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="_04___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\04 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_05___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\05 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_12___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\12 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_13___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\13 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-mais-512 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-mais-512 (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_11___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\11 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_11___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\11 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_06___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\06 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_12___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\12 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_05___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\05 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_11___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\11 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_09___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\09 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_04___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\04 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_13___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\13 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="baralhovirado" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\baralhovirado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pontosP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pontosP1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_04__espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\04 -espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_13___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\13 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_06___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\06 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_10___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\10 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_10___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\10 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_01___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\01 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_08___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\08 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_10___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\10 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_01___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\01 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_08___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\08 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_03___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\03 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_02___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\02 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_09___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\09 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_05___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\05 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_05___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\05 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fundo verde" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fundo verde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_04___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\04 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_07___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\07 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_07___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\07 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-seta-para-expandir-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-seta-para-expandir-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_07___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\07 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_10___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\10 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-seta-para-expandir-96 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-seta-para-expandir-96 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_09___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\09 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_02___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\02 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_01___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\01 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_06___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\06 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_08___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\08 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_12___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\12 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-toda-a-mão-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-toda-a-mão-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_13___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\13 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_02___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\02 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-seta-longa-abaixo-52 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-seta-longa-abaixo-52 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_07___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\07 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_03___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\03 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cartavirada" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cartavirada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="fundo_verde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fundo verde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manter_disable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manter disable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pedir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pedir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pedir_disable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pedir disable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pontosP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pontosP1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pontosP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pontosP2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reiniciar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reiniciar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reiniciar_disable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reiniciar disable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="setacartadireita" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\setacartadireita.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="setacartaesquerda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\setacartaesquerda.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="setapontosdireita" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\setapontosdireita.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="setapontosesquerda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\setapontosesquerda.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_01___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_01___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_01___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_01___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\01 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_06___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\06 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_02___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\02 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_02___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\02 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_12___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\12 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_02___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\02 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_11___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\11 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_02___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\02 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_09___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\09 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_03___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\03 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_03___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\03 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_03___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\03 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -298,13 +199,124 @@
   <data name="_03___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\03 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pontosP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pontosP2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_04__espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\04 -espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_04___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\04 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_04___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\04 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_04___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\04 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_05___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\05 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_05___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\05 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_05___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\05 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_05___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\05 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_06___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\06 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_06___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\06 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_06___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\06 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_06___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\06 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_07___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\07 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_07___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\07 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_07___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\07 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_07___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\07 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_08___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\08 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-seta-longa-abaixo-52" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-seta-longa-abaixo-52.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_08___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\08 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_08___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\08 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_08___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\08 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_09___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\09 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_09___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\09 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_09___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\09 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_09___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\09 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_10___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_10___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_10___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_10___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_11___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_11___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_11___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_11___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_12___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\12 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_12___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\12 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_12___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\12 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_12___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\12 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_13___copas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\13 - copas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_13___espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\13 - espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_13___ouro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\13 - ouro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_13___paus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\13 - paus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

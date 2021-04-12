@@ -605,7 +605,7 @@ namespace blackjack2._0.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap fundo_verde {
             get {
-                object obj = ResourceManager.GetObject("fundo verde", resourceCulture);
+                object obj = ResourceManager.GetObject("fundo_verde", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -613,9 +613,9 @@ namespace blackjack2._0.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_mais_512__2_ {
+        internal static System.Drawing.Bitmap manter {
             get {
-                object obj = ResourceManager.GetObject("icons8-mais-512 (2)", resourceCulture);
+                object obj = ResourceManager.GetObject("manter", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -623,9 +623,9 @@ namespace blackjack2._0.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_seta_longa_abaixo_52 {
+        internal static System.Drawing.Bitmap manter_disable {
             get {
-                object obj = ResourceManager.GetObject("icons8-seta-longa-abaixo-52", resourceCulture);
+                object obj = ResourceManager.GetObject("manter_disable", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -633,9 +633,9 @@ namespace blackjack2._0.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_seta_longa_abaixo_52__1_ {
+        internal static System.Drawing.Bitmap pedir {
             get {
-                object obj = ResourceManager.GetObject("icons8-seta-longa-abaixo-52 (1)", resourceCulture);
+                object obj = ResourceManager.GetObject("pedir", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -643,29 +643,9 @@ namespace blackjack2._0.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_seta_para_expandir_96 {
+        internal static System.Drawing.Bitmap pedir_disable {
             get {
-                object obj = ResourceManager.GetObject("icons8-seta-para-expandir-96", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap icons8_seta_para_expandir_96__1_ {
-            get {
-                object obj = ResourceManager.GetObject("icons8-seta-para-expandir-96 (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap icons8_toda_a_mão_641 {
-            get {
-                object obj = ResourceManager.GetObject("icons8-toda-a-mão-641", resourceCulture);
+                object obj = ResourceManager.GetObject("pedir_disable", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -686,6 +666,66 @@ namespace blackjack2._0.Properties {
         internal static System.Drawing.Bitmap pontosP2 {
             get {
                 object obj = ResourceManager.GetObject("pontosP2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap reiniciar {
+            get {
+                object obj = ResourceManager.GetObject("reiniciar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap reiniciar_disable {
+            get {
+                object obj = ResourceManager.GetObject("reiniciar_disable", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap setacartadireita {
+            get {
+                object obj = ResourceManager.GetObject("setacartadireita", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap setacartaesquerda {
+            get {
+                object obj = ResourceManager.GetObject("setacartaesquerda", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap setapontosdireita {
+            get {
+                object obj = ResourceManager.GetObject("setapontosdireita", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap setapontosesquerda {
+            get {
+                object obj = ResourceManager.GetObject("setapontosesquerda", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
