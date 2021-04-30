@@ -1,0 +1,11 @@
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\bin\Debug\blackjack2.0.exe.config
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\bin\Debug\blackjack2.0.exe
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\bin\Debug\blackjack2.0.pdb
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\obj\Debug\blackjack2.0.csprojAssemblyReference.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\obj\Debug\blackjack2._0.Form1.resources
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\obj\Debug\blackjack2._0.Form2.resources
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\obj\Debug\blackjack2._0.Properties.Resources.resources
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\obj\Debug\blackjack2.0.csproj.GenerateResource.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\obj\Debug\blackjack2.0.csproj.CoreCompileInputs.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\obj\Debug\blackjack2.0.exe
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjack2.0\blackjack2.0\blackjack2.0\obj\Debug\blackjack2.0.pdb
